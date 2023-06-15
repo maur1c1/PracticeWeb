@@ -1,0 +1,36 @@
+html{
+    box-sizing: border-box;
+}
+
+html *{
+    box-sizing: inherit;
+}
+.card{
+
+    border: 2px solid orange;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+
+}
+
+.card-image{
+    height: 300px;
+    background: orange;
+}
+
+.card-details{
+    display: flex;
+    flex-direction: column;
+}
+.card-buttons{
+    margin-top: auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.content{
+    text-align: justify;
+}
