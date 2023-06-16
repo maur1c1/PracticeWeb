@@ -1,0 +1,40 @@
+{
+    "carreras":[
+        {
+            "carrera_id":"1",
+            "nombre":"Carrera We Run México 2011",
+            "tipo_carrera":"10K",
+            "fecha":"26-11-2011",
+            "tiempo":"0:56:59",
+            "mejor_tiempo":false,
+            "altitud":"2250",
+            "lugar":"CDMX",
+            "pais":"México",
+            "foto":""        
+        },
+        {
+            "carrera_id":"1",
+            "nombre":"Carrera We Run México 2011",
+            "tipo_carrera":"10K",
+            "fecha":"26-11-2011",
+            "tiempo":"0:56:59",
+            "mejor_tiempo":false,
+            "altitud":"2250",
+            "lugar":"CDMX",
+            "pais":"México",
+            "foto":""        
+        },
+        {
+            "carrera_id":"1",
+            "nombre":"Reto Bosques de las Lomas",
+            "tipo_carrera":"5K",
+            "fecha":"26-11-2011",
+            "tiempo":"0:56:59",
+            "mejor_tiempo":false,
+            "altitud":"2250",
+            "lugar":"CDMX",
+            "pais":"México",
+            "foto":""        
+        }
+    ]
+}

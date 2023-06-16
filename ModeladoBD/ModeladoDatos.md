@@ -9,16 +9,19 @@
 1. Identificar las entidades del pivote del sistema. ✔
 1. Identificar los catalogos del sistema. ✔
 1. Identificar los tipos de relaciones del sistema. ✔
-1. Crear el Modelo Entidad-relacion del sistema. 
-1. Crear el Modelo Relacional de la base de datos del sistema.
-1. Identificar los tipos de datos de los atributos de las entidades del sistema.
-1. Identificar los atributos que pueden ser unicos en el sistema.
-1. Identificar las reglas del negocio (operaciones_CRUD_) del sistema.
+1. Crear el Modelo Entidad-relacion del sistema. ✔
+1. Crear el Modelo Relacional de la base de datos del sistema. ✔
+1. Identificar los tipos de datos de los atributos de las entidades del sistema. ✔
+1. Identificar los atributos que pueden ser unicos en el sistema. ✔
+1. Identificar las reglas del negocio (operaciones_CRUD_) del sistema. ✔
+
+
 
 ## Glosario
 
 - **PK**: _Primary Key_
 - **FK**: _Foreign Key_
+- **UQ**: _Unique Attribute_ 
 - **ED**: Entidad de Datos
 - **EP**: Entidad Pivote
 - **EC**: Entidad Catalogo
