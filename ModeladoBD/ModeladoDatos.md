@@ -27,4 +27,5 @@
 - **EC**: Entidad Catalogo
 
 
-> Diseño de Bases de Datos - Recuperado de Jonmircha.
+> Diseño de Bases de Datos - Recuperado de Jonmircha. [Diseño de Bases de datos](https://www.youtube.com/watch?v=HXE169-n5pM)
+

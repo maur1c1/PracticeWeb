@@ -45,7 +45,8 @@ Este es otro texto
 * Primavera
   - Abril
   - Mayo
-     - cumple de John 🎂
+  - Junio
+    - cumple de Diana 🎂🌹🎁
 * Otoño
 * Invierno
 
@@ -64,9 +65,9 @@ Este es otro texto
 
 | Nombre | Edad | Correo |
 | ---| --- | --- |
-| John | 38 | jonmircha@gmail.com |
-| kenai | 9 | kenai@johnMircah.com |
-| Juanito | 34 | juanito@lol.com |
+| Diana | 32 | Diana@gmail.com |
+| Marc | 9 | marc@outlook.com |
+| Sonia | 34 | sonya@gmail.com |
 
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. `let` Laborum maxime temporibus qui ex vitae nihil blanditiis rem, deserunt incidunt tempore mollitia quas est voluptatum dolor quo iure? Veritatis, expedita sit.
